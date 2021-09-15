@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "LearnBay",
+    "slug": "LearnBay",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/default512Center.png",
+    "splash": {
+      "image": "./assets/default512Center.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#001421"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.LearnBay.LearnBay",
+      "versionCode": 2
+    }
+  }
+}
